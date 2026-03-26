@@ -1,16 +1,25 @@
-## Hi there 👋
+# Vijaya Samrat M | Java Full-Stack Developer
 
-<!--
-**Vijayasamrat/Vijayasamrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Full-Stack Developer and B.Sc Computer Science graduate specializing in **Spring Boot**, **MS SQL Server** and **RESTful API design**.I focus on building secure, scalable back-end architectures using **Clean Code** principles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+* **Languages:** Java (JDK 11/17), Python, JavaScript.
+* **Frameworks:** Spring Boot, Spring Security, Spring Data JPA.
+* **Security:** JWT Authentication, Role-Based Access Control (RBAC).
+* **Database:** MS SQL Server, MySQL, SQL Indexing & Optimization.
+* **Frontend:** HTML5, CSS3, Bootstrap 5.
+
+---
+
+### 🎓 Education & Certifications
+* **B.Sc. Computer Science:** Madurai Kamaraj University (2021–2024).
+* **Leadership:** National Cadet Corps (NCC) – Crisis management and team coordination.
+
+---
+
+### 📫 Connect with Me
+* **Email:** mvijayasamrat@gmail.com 
+* **Phone:** +91 63829 15065
+* **Profiles:** [LinkedIn](https://linkedin.com)
