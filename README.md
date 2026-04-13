@@ -21,4 +21,4 @@ Java Full-Stack Developer and B.Sc Computer Science graduate specializing in **S
 
 ### 📫 Connect with Me
 * **Email:** mvijayasamrat@gmail.com 
-* **Profiles:** [LinkedIn]([https://www.linkedin.com/in/vijaya-samrat-m-1712343a2/])(https://www.linkedin.com/in/vijaya-samrat-m-1712343a2/)
+* **Profiles:** [LinkedIn]([https://www.linkedin.com/in/vijaya-samrat-m])
